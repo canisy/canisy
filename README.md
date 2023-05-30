@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @canisy
 - 👀 I’m interested in Machine Learning, Cryptography, Web Scraping
 - 🌱 I’m currently learning Python(Flask & Django), Kotlin(Android Studio), HTML & CSS
-- ❌ Cannot use SQL, can only use json & yml as database.
 - 💞️ I’m looking to collaborate on None
 - 📫 How to reach me: None
 
